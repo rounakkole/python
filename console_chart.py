@@ -28,9 +28,9 @@ def print_chart(data_list):
     print("\n")
 
 
-    #from console_chart import print_chart
-    #data_list = {}
-    #data_list [0]= open, high, low, close
-    #print_chart(#data_list)
+  #from console_chart import print_chart
+  #data_list = {}
+  #data_list [0]= open, high, low, close
+  #print_chart(data_list)
 
-    #not to scale
+  #not to scale

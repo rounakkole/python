@@ -18,5 +18,5 @@ def absDiffr(a, b):
     return diff
 
 
-    #from absDiff omport absDiffr
-    #i = absDiffr(5, -10)
+  #from absDiff import absDiffr
+  #i = absDiffr(5, -10)

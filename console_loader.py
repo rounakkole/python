@@ -19,6 +19,6 @@ def print_loader(progress, total):
         print("|", end="  ")
         print(int(progress / total * 100), end="\n \n")
 
-    #from console_loader import print_loader
-    #print_loader(25, 100)
+  #from console_loader import print_loader
+  #print_loader(25, 100)
         
